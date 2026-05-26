@@ -1,25 +1,15 @@
 # Sales Dashboard FY2024
 
-## Overview
-Interactive Power BI dashboard for analyzing sales performance.
-
-## Features
-- Revenue Analysis
-- Profit Tracking
-- Sales Trends
-- Regional Insights
-- Customer Analysis
+## Project Overview
+This power BI dashboard analyzes FY2024 Sales Performance
 
 ## Tools Used
-- Power BI
-- DAX
-- Power Query
+-Power BI
+Excel
+DAX
 
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
-
-## Key Metrics
-- Revenue: ₹23M
-- Profit: ₹7.8M
-- Profit Margin: 33%
+## Features
+-Sales Trends
+Region-Wise analysis
+Profit insights
+KPI cards
